@@ -1,0 +1,7 @@
+{
+  "name": "SkyCRM - Real Estate Agent Pro",
+  "description": "A high-performance real estate CRM with AI-powered lead management, follow-up tracking, and beautiful data visualization across desktop and mobile.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
